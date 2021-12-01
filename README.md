@@ -5,7 +5,7 @@
   <meta charset="utf-8"/>
 
   <!-- titulo de la empresa -->
-  <title>Clothing Market </title>
+  <title>Empresa</title>
 
   <!-- inicializaciòn  para medir la referencia de lo ancho de la pantalla y no sea fija -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
